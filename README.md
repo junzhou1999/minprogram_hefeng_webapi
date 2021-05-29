@@ -3,6 +3,9 @@
 + 城市信息查询 https://dev.qweather.com/docs/api/geo/city-lookup/
 + 实时天气查询 https://dev.qweather.com/docs/api/weather/weather-now/
 
+#### 参考的项目
++ https://github.com/YINGFOX/Weather
+
 #### 截图
 <img width="200" src="https://github.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic.jpg"/>
 <img width="200" src="https://github.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic2.jpg"/>
