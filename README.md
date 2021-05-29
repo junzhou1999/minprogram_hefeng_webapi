@@ -4,6 +4,7 @@
 + 实时天气查询 https://dev.qweather.com/docs/api/weather/weather-now/
 
 #### 截图
+![Image text](main/screenshots/pic.png)
 <img src="https://graw.githubusercontent.com/minprogram_hefeng_webapi/raw/main/screenshots/pic.png"/>
 <img src="https://graw.githubusercontent.com/minprogram_hefeng_webapi/raw/main/screenshots/pic2.png"/>
 <img src="https://graw.githubusercontent.com/minprogram_hefeng_webapi/raw/main/screenshots/pic3.png"/>
