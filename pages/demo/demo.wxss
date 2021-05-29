@@ -1,0 +1,54 @@
+/* pages/demo/demo.wxss */
+image{
+  height: 200px;
+  width: 200px;
+}
+
+text{
+  display:flex;  
+  justify-content: flex-start; 
+  font-size: 40rpx;
+}
+
+.custom{
+  display:flex;                    /* flex布局 */
+  justify-content: center;         /* 水平轴线居中 */
+  align-items:center;   
+  font-size: 50rpx;
+  color: #3C5F81;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+} 
+
+
+button{
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+}
+.button-sp-area{
+  margin: 0 auto;
+  width: 60%;
+}
+.mini-btn{
+  margin-right: 10rpx;
+}
+.bar {
+  display: flex;
+  flex-direction: row;
+  margin: 20rpx 0;
+}
+
+.box {
+  width: 33.3%;
+  text-align: center;
+}
+.detail {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  font-size: 35rpx;
+}
