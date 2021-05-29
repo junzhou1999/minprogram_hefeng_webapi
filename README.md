@@ -4,9 +4,9 @@
 + 实时天气查询 https://dev.qweather.com/docs/api/weather/weather-now/
 
 #### 截图
-<img src="https://github.com/minprogram_hefeng_webapi/raw/main/screenshots/pic.png"/>
-<img src="https://github.com/minprogram_hefeng_webapi/raw/main/screenshots/pic2.png"/>
-<img src="https://github.com/minprogram_hefeng_webapi/raw/main/screenshots/pic3.png"/>
+<img src="https://graw.githubusercontent.com/minprogram_hefeng_webapi/raw/main/screenshots/pic.png"/>
+<img src="https://graw.githubusercontent.com/minprogram_hefeng_webapi/raw/main/screenshots/pic2.png"/>
+<img src="https://graw.githubusercontent.com/minprogram_hefeng_webapi/raw/main/screenshots/pic3.png"/>
 
 #### 需要注意的地方
 + 需要在微信开发平台添加配置服务器域名
