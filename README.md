@@ -5,7 +5,7 @@
 
 #### 截图
 ![Image text](screenshots/pic.jpg)
-<img width="200" src="https://raw.githubusercontent.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic2.jpg"/>
+<img width="200" src="https://github.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic2.jpg"/>
 <img src="https://raw.githubusercontent.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic3.jpg"/>
 <img src="https://raw.githubusercontent.com/minprogram_hefeng_webapi/raw/main/screenshots/pic3.jpg"/>
 
