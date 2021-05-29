@@ -6,7 +6,7 @@
 #### 截图
 <img width="200" src="https://github.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic.jpg"/>
 <img width="200" src="https://github.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic2.jpg"/>
-<img width="200" src="https://github.com/minprogram_hefeng_webapi/raw/main/screenshots/pic3.jpg"/>
+<img width="200" src="https://github.com/junzhou1999/minprogram_hefeng_webapi/raw/main/screenshots/pic3.jpg"/>
 
 #### 需要注意的地方
 + 需要在微信开发平台添加配置服务器域名
